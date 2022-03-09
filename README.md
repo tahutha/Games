@@ -1,1 +1,2 @@
-# This is mh Games repository.
+# This is my Games repository.
+# Please follow for more updates.
